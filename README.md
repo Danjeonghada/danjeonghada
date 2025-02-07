@@ -1,4 +1,4 @@
-<h3 align="center">Hi</h3>
+<h1 align="center">Hi</h1>
 
 <br>
 
