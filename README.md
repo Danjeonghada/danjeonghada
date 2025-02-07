@@ -1,3 +1,6 @@
+<h3>Hi</h3>
+
+<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
